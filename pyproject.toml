@@ -65,7 +65,7 @@ wrapt = "*" # "^1.16.0"
 python-arango = { version = "^7.8", optional = true }
 azure-storage-blob = { version = "^12.19", optional = true }
 clickhouse-driver = { version = "*", optional = true }
-google-cloud-bigquery = { version = ">=2", optional = true },
+google-cloud-bigquery = { version = ">=2", optional = true }
 google-cloud-pubsub = { version = ">=2", optional = true }
 kubernetes = { version = "*", optional = true }
 pyyaml = { version = "*", optional = true }
