@@ -1,4 +1,4 @@
-# testcontainers documentation build configuration file, created by
+ # testcontainers documentation build configuration file, created by
 # sphinx-quickstart on Tue Mar 21 21:09:48 2017.
 #
 # This file is execfile()d with the current directory set to its
